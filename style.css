@@ -324,6 +324,10 @@ ul .list{
         height: 30px;
         margin: 2.3vh 3.5vh;
     }
+    
+    .input button{
+        padding: 2vh 2vw;
+    }
 
     .main {
         height: calc(90% - 90px);
