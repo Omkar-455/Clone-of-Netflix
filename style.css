@@ -59,7 +59,7 @@ html {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    font-family: Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-family: Helvetica , sans-serif;
     font-weight: 700;
     margin: 0 auto;
 }
@@ -325,6 +325,9 @@ ul .list{
         margin: 2.3vh 3.5vh;
     }
     
+    .input input{
+        padding: 2vh 3vh;
+    }
     .input button{
         padding: 2vh 2vw;
     }
