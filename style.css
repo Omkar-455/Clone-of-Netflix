@@ -373,7 +373,9 @@ ul .list{
         font-size: 3vh;
         padding: 4vh 4vw 2vh 8vw;
     }
-
+    .img-conte{
+        max-width: 90vw;
+    }
     .image span {
         font-size: 10vh;
         bottom: -10px;
@@ -426,11 +428,12 @@ ul .list{
 
 }
 
+
 @media (max-width:770px) {
 
     .image{
-        width: 155px;
-        height: 230px;
+        width: 135px;
+        height: 180px;
     }
     .img3,
     .img4,
